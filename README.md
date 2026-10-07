@@ -4,18 +4,17 @@
 <h1>AirGroundVLN: A Large-Scale Benchmark for Goal-Oriented Air-Ground Collaborative Vision-and-Language Navigation</h1>
 
 <p>
-  Zhenxuan Zeng<sup>1,2</sup>,
-  Qingle Wu<sup>1,2</sup>,
-  Wei Suo<sup>1,2,†</sup>,
-  Maojia Wu<sup>1,2</sup>,
-  Bairong Zhang<sup>1,2</sup>,
-  Hangzheng Yu<sup>1,2</sup>,
-  Peng Wang<sup>1,2</sup>
+  Zhenxuan Zeng,
+  Qingle Wu,
+  Wei Suo<sup>†</sup>,
+  Maojia Wu,
+  Bairong Zhang,
+  Hangzheng Yu,
+  Peng Wang
 </p>
 
 <p>
-  <sup>1</sup>School of Computer Science, Northwestern Polytechnical University, China<br/>
-  <sup>2</sup>National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China<br/>
+  School of Computer Science, Northwestern Polytechnical University, China<br/>
   <sup>†</sup>Corresponding author
 </p>
 
@@ -46,8 +45,7 @@ If you find AirGroundVLN useful in your research or applications, please conside
 ```bibtex
 @misc{airgroundvln,
   title  = {AirGroundVLN: A Large-Scale Benchmark for Goal-Oriented Air-Ground Collaborative Vision-and-Language Navigation},
-  author = {Zeng, Zhenxuan and Wu, Qingle and Suo, Wei and Wu, Maojia and Zhang, Bairong and Yu, Hangzheng and Wang, Peng},
-  year   = {2026},
-  note   = {Manuscript in preparation}
+  author = {Zhenxuan Zeng and Qingle Wu and Wei Suo and Maojia Wu and Bairong Zhang and Hangzheng Yu and Peng Wang},
+  year   = {2026}
 }
 ```
