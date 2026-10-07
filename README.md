@@ -20,7 +20,7 @@
 
 <!-- Replace the placeholder links below when the public resources are available. -->
 [![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-red)](#)
-[![Website](https://img.shields.io/badge/🌐-Website-green)](#)
+[![Website](https://img.shields.io/badge/🌐-Website-green)](https://peakpang.github.io/AirGroundVLN-Project/)
 [![Live Demo](https://img.shields.io/badge/🎥-Live_Demo-purple)](#)
 [![Data](https://img.shields.io/badge/💾-Data-orange)](#)
 
