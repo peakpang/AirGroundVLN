@@ -19,7 +19,7 @@
 </p>
 
 <!-- Replace the placeholder links below when the public resources are available. -->
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-red)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-red)](https://arxiv.org/abs/2610.10421)
 [![Website](https://img.shields.io/badge/🌐-Website-green)](https://peakpang.github.io/AirGroundVLN-Project/)
 [![Live Demo](https://img.shields.io/badge/🎥-Live_Demo-purple)](#)
 [![Data](https://img.shields.io/badge/💾-Data-orange)](#)
@@ -43,9 +43,13 @@
 If you find AirGroundVLN useful in your research or applications, please consider citing it with the following BibTeX entry:
 
 ```bibtex
-@misc{airgroundvln,
-  title  = {AirGroundVLN: A Large-Scale Benchmark for Goal-Oriented Air-Ground Collaborative Vision-and-Language Navigation},
-  author = {Zhenxuan Zeng and Qingle Wu and Wei Suo and Maojia Wu and Bairong Zhang and Hangzheng Yu and Peng Wang},
-  year   = {2026}
+@misc{zeng2026airgroundvln,
+      title={AirGroundVLN: A Large-Scale Benchmark for Goal-Oriented Air-Ground Collaborative Vision-and-Language Navigation}, 
+      author={Zhenxuan Zeng and Qingle Wu and Wei Suo and Maojia Wu and Bairong Zhang and Hangzheng Yu and Peng Wang},
+      year={2026},
+      eprint={2610.10421},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2610.10421}, 
 }
 ```
