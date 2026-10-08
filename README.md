@@ -21,7 +21,7 @@
 <!-- Replace the placeholder links below when the public resources are available. -->
 [![arXiv](https://img.shields.io/badge/arXiv-2610.10421-b31b1b.svg)](https://arxiv.org/abs/2610.10421)
 [![Website](https://img.shields.io/badge/🌐-Website-green)](https://peakpang.github.io/AirGroundVLN-Project/)
-[![Live Demo](https://img.shields.io/badge/🎥-Live_Demo-purple)](#)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?logo=youtube)](https://youtu.be/XvuNdebI-iA)
 [![Data](https://img.shields.io/badge/💾-Data-orange)](#)
 
 </div>
